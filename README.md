@@ -3,6 +3,9 @@ This small Python script will try to generate translations of all the birds in t
 
 As long as the bird page exists in your language, this script should be able to handle the translation, as well as to get the scientific name for most of the birds.
 
+The result is a csv list with the english, scientific and translated name of each bird. Here is a (slightly polished) list of [Swedish translations](./swedish_translations.pdf) converted into pdf format.
+
+
 ## Requirements
 
 * Python 3
